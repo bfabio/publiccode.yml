@@ -56,6 +56,16 @@ description:
           on multiple rows. You should note what the software
           is and why one should need it.
 
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+          This must be at least 500 characters long.
+
     documentation: "https://read.the.documentation/medusa/v1.0"
     apiDocumentation: "https://read.the.api.doc/medusa/v1.0"
 
